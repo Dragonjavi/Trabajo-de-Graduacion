@@ -1,0 +1,27 @@
+\select@language {spanish}
+\contentsline {chapter}{\IeC {\'I}NDICE DE FIGURAS}{\es@scroman {iii}}{chapter*.7}
+\contentsline {chapter}{\IeC {\'I}NDICE DE TABLAS}{\es@scroman {v}}{chapter*.8}
+\contentsline {chapter}{LISTA DE S\IeC {\'I}MBOLOS}{\es@scroman {vii}}{chapter*.9}
+\contentsline {chapter}{OBJETIVOS}{\es@scroman {ix}}{chapter*.10}
+\contentsline {chapter}{INTRODUCCI\IeC {\'O}N}{\es@scroman {xi}}{chapter*.13}
+\contentsline {chapter}{\numberline {1}CONCEPTOS PRELIMINARES}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Conjuntos, funciones y sucesiones}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Tablas y Gr\IeC {\'a}ficas}{5}{section.1.2}
+\contentsline {chapter}{\numberline {2}Conceptos Financieros }{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Acciones,Opciones, Calls y Puts}{7}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Rentabilidad a lo largo}{9}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Rentabilidad a lo corto}{9}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}Valor Intriseco}{10}{section.2.2}
+\contentsline {section}{\numberline {2.3}Estrategias sobre opciones}{10}{section.2.3}
+\contentsline {section}{\numberline {2.4}Valor del dinero en el tiempo}{11}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Valor presente}{11}{subsection.2.4.1}
+\contentsline {section}{\numberline {2.5}Opciones arbitrarias}{11}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}La paridad de una opci\IeC {\'o}n }{12}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Convexidad de los precios de la opciones }{13}{subsection.2.5.2}
+\contentsline {section}{\numberline {2.6}Conceptos de los modelos financieros }{14}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}\IeC {\'A}rbol binomial}{14}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Simulaci\IeC {\'o}n Monte Carlo}{14}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}Black- Scholes}{15}{subsection.2.6.3}
+\contentsline {chapter}{CONCLUSIONES}{17}{chapter*.18}
+\contentsline {chapter}{RECOMENDACIONES}{19}{chapter*.19}
+\contentsline {chapter}{BIBLIOGRAF\'IA}{21}{chapter*.20}
